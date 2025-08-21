@@ -1,0 +1,7 @@
+
+body { font-family: 'Poppins', sans-serif; }
+h1, h2, h3, h5 { font-family: 'Montserrat', sans-serif; }
+.card:hover { transform: translateY(-5px); transition: 0.3s; box-shadow: 0 4px 20px rgba(0,0,0,0.2); }
+.navbar { background: linear-gradient(90deg,#0052D4,#4364F7,#6FB1FC); }
+.btn-primary { background-color: #4364F7; border: none; }
+.btn-primary:hover { background-color: #6FB1FC; }
